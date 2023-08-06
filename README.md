@@ -6,7 +6,7 @@ This repository contains the final project for the class CS 462 (Engaging in Vir
 
 - [X] Export to Web
 - [X] Have rate of evolution be controlled by player
-- [ ] Nebula effects (including accretion disk)
+- [X] Nebula effects (including accretion disk)
 - [ ] Red Supergiant phase
 
 # Credits
