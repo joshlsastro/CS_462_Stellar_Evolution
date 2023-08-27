@@ -1,14 +1,20 @@
 # Virtual Worlds Final Project
 
-This repository contains the final project for the class CS 462 (Engaging in Virtual Worlds) at Colorado State University. It will contain a version exported to the Web.
+This repository contains the final project for the class CS 462 (Engaging in Virtual Worlds) at Colorado State University. It contains a version exported to the Web.
 
-# To-do List
+# Requirements
 
-- [X] Export to Web
-- [X] Have rate of evolution be controlled by player
-- [X] Nebula effects (including accretion disk)
-- [X] Red Supergiant phase
-- [ ] Testing Across Browsers
+You will need a copy of [Python 3](https://python.org) and a Web browser, preferably [Firefox](https://mozilla.org/firefox) or [Chrome](https://www.google.com/chrome/).
+
+# How to Run
+
+Simply run `unity_server.py` in the `Stellar_Evolution_Simulator` directory. Playing in full screen is recommended.
+
+Example on Linux:
+```bash
+$ cd Stellar_Evolution_Simulator
+$ python3 unity_server.py
+```
 
 # Credits
 
